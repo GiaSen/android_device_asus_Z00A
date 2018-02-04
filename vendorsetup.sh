@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo lineage_Z00A-userdebug
+add_lunch_combo du_Z00A-userdebug
