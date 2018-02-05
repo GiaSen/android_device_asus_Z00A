@@ -15,3 +15,4 @@
 #
 
 add_lunch_combo du_Z00A-userdebug
+add_lunch_combo du_Z00A-eng
